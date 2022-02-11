@@ -12,6 +12,6 @@ https://downloads.regulations.gov/EPA-HQ-OW-2021-0602-0130/attachment_1.pdf
 - pip install python-dotenv
 
 ### In your .env file add
-- ATTACHMENT_URL = the_attachemnt_url
+- ATTACHMENT\_URL = the_attachemnt_url
 - USERNAME = username_for_regulations_key
-- AUTH_KEY = your_regulations_key
+- AUTH\_KEY = your_regulations_key
