@@ -19,5 +19,6 @@ https://downloads.regulations.gov/EPA-HQ-OW-2021-0602-0130/attachment_1.pdf
 ### To run flask server
 - pip install flask
 - export FLASK_APP=flask_server.py
+    - Change the .py file to whatever flask app you want to run
 - export FLASK_ENV=development
 - flask run
